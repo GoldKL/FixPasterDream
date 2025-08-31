@@ -1,0 +1,7 @@
+Java Launcher: D:\Program Files\Java\jdk-17.0.5\bin\java.exe
+Arguments: '--inJar, E:\minecraft_mod\PasterDreamGradle\build\fg_cache\net\minecraftforge\forge\1.20.1-47.2.0\forge-1.20.1-47.2.0-injected.jar, --outJar, E:\minecraft_mod\PasterDreamGradle\build\fg_cache\net\minecraftforge\forge\1.20.1-47.2.0_mapped_official_1.20.1\forge-1.20.1-47.2.0_mapped_official_1.20.1.jar, --logFile, accesstransform.log, --atFile, E:\minecraft_mod\PasterDreamGradle\src\main\resources\META-INF\accesstransformer.cfg, --atFile, E:\minecraft_mod\PasterDreamGradle\build\_atJar_4\parent_at.cfg'
+Classpath:
+ - C:\Users\lenovo\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.2.1\accesstransformers-8.2.1-fatjar.jar
+Working directory: E:\minecraft_mod\PasterDreamGradle\build\_atJar_4
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================

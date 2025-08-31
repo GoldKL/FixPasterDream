@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "pasterdream:item/fa_guang_jiang_guo_dan_gao_"
+  }
+}

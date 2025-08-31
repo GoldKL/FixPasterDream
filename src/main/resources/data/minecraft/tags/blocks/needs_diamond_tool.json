@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "pasterdream:deepslate_titanium_ore",
+    "pasterdream:raw_titanium_block",
+    "pasterdream:titanium_block",
+    "pasterdream:dyedream_block",
+    "pasterdream:rust_black_metal_block",
+    "pasterdream:rust_black_metal_block_wall",
+    "pasterdream:rust_black_metal_block_bars",
+    "pasterdream:windrunner_crystal_ore",
+    "pasterdream:windrunner_crystal_block",
+    "pasterdream:wind_iron_block",
+    "pasterdream:titanium_ore"
+  ]
+}
